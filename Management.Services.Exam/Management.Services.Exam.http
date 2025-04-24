@@ -1,0 +1,6 @@
+@Management.Services.Exam_HostAddress = http://localhost:5244
+
+GET {{Management.Services.Exam_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

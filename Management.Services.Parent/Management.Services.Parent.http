@@ -1,0 +1,6 @@
+@Management.Services.Parent_HostAddress = http://localhost:5151
+
+GET {{Management.Services.Parent_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
